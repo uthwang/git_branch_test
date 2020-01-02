@@ -1,2 +1,2 @@
-class feature01 {
+class feature012 {
 }
